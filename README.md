@@ -13,6 +13,16 @@
     <td>프론트엔드</td>
 	</tr>
 	<tr>
+		<td>😁</td>
+		<td>장정우</td>
+    <td>프론트엔드</td>
+	</tr>
+	<tr>
+		<td>🤠</td>
+		<td>이민섭</td>
+    <td>프론트엔드</td>
+	</tr>
+	<tr>
 		<td>🤑</td>
 		<td>장준영</td>
     <td>백엔드</td>
